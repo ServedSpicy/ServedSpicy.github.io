@@ -1,2 +1,2 @@
 
-window.location = 'https://GitHub.com/ServedSpicy';
+window.location = 'https://GitHub.com/ServedSpicy/Documentation';
