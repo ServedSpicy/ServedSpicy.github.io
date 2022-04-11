@@ -1,1 +1,0 @@
-# ServedSpicy.github.io
